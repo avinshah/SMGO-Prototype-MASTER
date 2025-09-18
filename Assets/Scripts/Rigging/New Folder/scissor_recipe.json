@@ -1,0 +1,83 @@
+{
+  "armature": "ScissorRig.001",
+  "backs": [
+    "back 1",
+    "back 2",
+    "back 3",
+    "back 4",
+    "back 5",
+    "back 6",
+    "back 7"
+  ],
+  "fronts": [
+    "front 1",
+    "front 2",
+    "front 3",
+    "front 4",
+    "front 5",
+    "front 6",
+    "front 7"
+  ],
+  "main": "main",
+  "handle": "handle",
+  "prehandle": "prehandle",
+  "copyRotationPairs": [
+    [
+      "back 2",
+      "back 1"
+    ],
+    [
+      "back 3",
+      "back 2"
+    ],
+    [
+      "back 4",
+      "back 3"
+    ],
+    [
+      "back 5",
+      "back 4"
+    ],
+    [
+      "back 6",
+      "back 5"
+    ],
+    [
+      "back 7",
+      "back 6"
+    ],
+    [
+      "front 2",
+      "front 1"
+    ],
+    [
+      "front 3",
+      "front 2"
+    ],
+    [
+      "front 4",
+      "front 3"
+    ],
+    [
+      "front 5",
+      "front 4"
+    ],
+    [
+      "front 6",
+      "front 5"
+    ],
+    [
+      "front 7",
+      "front 6"
+    ]
+  ],
+  "prehandleCopyLoc": {
+    "target": "handle",
+    "influence": 0.1428571492433548
+  },
+  "handleLimit": null,
+  "frontAim": {
+    "bone": "front 1",
+    "target": "prehandle"
+  }
+}

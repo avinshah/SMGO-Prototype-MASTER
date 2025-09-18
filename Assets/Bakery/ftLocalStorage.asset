@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/Bakery/examples/content/sponza/sponza.FBX
+  - Assets/Models/SandBags1.fbx
+  - Assets/Trenches Pack/Sources/Ground_Bed_Double_Wood.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Plank_C.fbx
+  - Assets/Models/SandBags2.fbx
+  - Assets/Trenches Pack/Sources/Bed_Double.fbx
+  - Assets/Trenches Pack/Sources/Ground_Firebay_Wood_B.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Board_C.fbx
+  - Assets/Models/WW1Coat.fbx
+  - Assets/Trenches Pack/Sources/Ground_Firebay_Wood_B 1.fbx
+  - Assets/Trenches Pack/Sources/Bench.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Board_E.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Board_B.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Board_A.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Plank_A.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Platform_Double_A.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Board_D.fbx
+  - Assets/Trenches Pack/Sources/Ground_Straight_Wood.fbx
+  - Assets/Trenches Pack/Sources/Table.fbx
+  - Assets/Trenches Pack/Sources/Ladder.fbx
+  - Assets/Trenches Pack/Sources/Ground_Firebay_Wood.fbx
+  - Assets/Trenches Pack/Sources/Parts/Top_Ground_Platform_Double.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Platform_Simple_A.fbx
+  - Assets/Trenches Pack/Sources/Ground_Corner_Wood.fbx
+  - Assets/Trenches Pack/Sources/Ground_Firebay_Double_Wood.fbx
+  - Assets/Trenches Pack/Sources/Room_A_Wood.fbx
+  - Assets/Trenches Pack/Sources/Ground_End_Wood.fbx
+  - Assets/Trenches Pack/Sources/Ground_X_Intersection_Wood.fbx
+  - Assets/Trenches Pack/Sources/Ground_End_Wood_Cover.fbx
+  - Assets/Trenches Pack/Sources/Ground_T_Intersection_Wood.fbx
+  - Assets/Trenches Pack/Sources/Ground_Cover.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Plank_B.fbx
+  - Assets/Trenches Pack/Sources/Parts/Wood_Wall_A.fbx
+  - Assets/Trenches Pack/Sources/Ground_T_Intersection_Wood 1.fbx
+  modifiedAssetPaddingHash: d6a958ff42f38dc4ffb8c42cc1affd0bf1b36c5669cd4eb7b97cb4e279e3caa7c38a5eddc422cafd010c7eab28abba5d633accbc28abba5df9c544be9d933aa20b680de5b97cb4e2b9ce09c4645bac2e06b9c42cb0a5a9698937dfda2ab126fcf560976f49f939099a31e5c0b97cb4e25ce876db0bac66917ce4b5e8bfa7883983a6c8f75f083ca8

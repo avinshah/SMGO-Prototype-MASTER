@@ -1,0 +1,1 @@
+Before opening "Trenches_Scene", please, make sure you have "Standard Assets" package imported, otherwise you will get error and missing prefab (from textures, trees and RigidBodyFPSController).

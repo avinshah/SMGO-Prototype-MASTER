@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 21 - Textures Power of 2
+  m_EditorClassIdentifier: 
+  data:
+    name: Some Textures Height or Width are Non Power of 2
+    description: "<b>\u2022 What It Does:</b> Ensures that texture dimensions are
+      powers of two (e.g. 256, 512, 1024), which is a GPU-friendly format that improves
+      texture streaming, mipmapping, and overall performance.\n\n<b>\u2022 Our Modification:
+      </b>We adjust non-compliant textures to the nearest power-of-two size where
+      visual quality is preserved, helping reduce runtime memory usage and improve
+      rendering efficiency on mobile VR devices."
+    state: 0
+    level: 0
+    tags: 288
+    noFix: 1
+    hide: 0
+    functionName: TexturesPower
+    concernedObjects:
+    - guid: Assets/Settings/Project Configuration/BasicScene.scenetemplate
+      toggle: 0
+      value: -1
+    - guid: Assets/Settings/Project Configuration/SampleScene.scenetemplate
+      toggle: 0
+      value: -1
+    - guid: Assets/Unity-Folder-Icons/FolderIcons/Folders/None.png
+      toggle: 0
+      value: -1
+    - guid: Assets/ValemStudio/Textures/T_ExempleTexture 1.jpg
+      toggle: 0
+      value: -1
+    - guid: Assets/ValemStudio/Textures/T_ExempleTexture.jpg
+      toggle: 0
+      value: -1
+    ticketValue: 0
+  IsBigTicket: 0
