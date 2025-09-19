@@ -631,7 +631,13 @@ MonoBehaviour:
   - Assets/Models/BillBoards/IndianSoldiers.fbx
   - Assets/Models/BillBoards/IndianSoldiers/SoldiersAtWar/Indian/SoldiersCharging.fbx
   - Assets/Models/BillBoards/Soldiers/IndianSOldiersFighting/IndianSoldiersFighting.fbx
-  uvOverlapAssetList: 00000000ffffffff00000000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000000000001010000000000000000000000000000
+  - Assets/Models/LTDugout/CigCase/Cigcase.fbx
+  - Assets/Models/LTDugout/GasMask/GasMask.fbx
+  - Assets/Models/LTDugout/Pistol/Pistol.fbx
+  - Assets/Models/LTDugout/TrenchPhone/TrenchPhone.fbx
+  - Assets/Models/LTDugout/Satchel/Satchel.fbx
+  - Assets/Models/LTDugout/WoodenCase/WoodenCase.fbx
+  uvOverlapAssetList: 00000000ffffffff00000000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000000000001010000000000000000000000000000010100000101000001010000010100000101000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce RTX 2080 Super with Max-Q Design
