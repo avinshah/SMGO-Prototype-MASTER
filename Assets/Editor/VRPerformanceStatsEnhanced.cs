@@ -304,14 +304,23 @@ public static class VRPerformanceCore
                 }
 
                 // Track textures
-                var textures = new[]
-                {
-                    mat.mainTexture,
-                    mat.GetTexture("_BumpMap"),
-                    mat.GetTexture("_MetallicGlossMap"),
-                    mat.GetTexture("_OcclusionMap"),
-                    mat.GetTexture("_EmissionMap")
-                };
+                var textures = new List<Texture>();
+
+                if (mat.mainTexture != null)
+                    textures.Add(mat.mainTexture);
+
+                if (mat.HasProperty("_BumpMap"))
+                    textures.Add(mat.GetTexture("_BumpMap"));
+
+                if (mat.HasProperty("_MetallicGlossMap"))
+                    textures.Add(mat.GetTexture("_MetallicGlossMap"));
+
+                if (mat.HasProperty("_OcclusionMap"))
+                    textures.Add(mat.GetTexture("_OcclusionMap"));
+
+                if (mat.HasProperty("_EmissionMap"))
+                    textures.Add(mat.GetTexture("_EmissionMap"));
+
 
                 foreach (var tex in textures)
                 {
