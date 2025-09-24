@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: StrictlyComeDancing
+  companyName: StrictlyImmersive
   productName: SMGO
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -142,6 +142,8 @@ PlayerSettings:
   bundleVersion: 0.1.0
   preloadedAssets:
   - {fileID: 11400000, guid: dad82bc9cf581d24b99852733e63aeb0, type: 2}
+  - {fileID: 11400000, guid: a81bad9238d5f0f4faca51d29bc36742, type: 2}
+  - {fileID: 7328162729175194695, guid: 86e23a6949e604744bfbe1b2f106e054, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -162,7 +164,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.StrictlyComeDancing.SMGOFinalScene
+    Android: com.StrictlyImmersive.SMGOPlayer1Test
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
