@@ -1334,7 +1334,6 @@ MonoBehaviour:
   m_Markers:
     m_Objects:
     - {fileID: -197035984350490840}
-    - {fileID: 7419345024344907521}
 --- !u!114 &2550760966499215593
 MonoBehaviour:
   m_ObjectHideFlags: 1
